@@ -1,2 +1,2 @@
-# PROYECTO2
-PAGINA WEB CON HTML Y CSS
+# practica7
+Programacion de aplicaciones web, uso de css
